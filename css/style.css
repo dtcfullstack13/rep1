@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+nav{
+    background-color: black;
+    text-align: center;
+}
+nav a{
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-bottom: 5px solid black;
+}
+nav a:hover{
+    color: lightcoral;
+    border-bottom: 5px solid lightcoral;
+}
