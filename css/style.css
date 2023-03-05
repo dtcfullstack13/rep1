@@ -19,24 +19,3 @@ nav a:hover{
     color: lightcoral;
     border-bottom: 5px solid lightcoral;
 }
-
-/* Start Header */
-header {
-    padding: 30px;
-    background-color: aqua;
-}
-/* End Header */
-
-/* Start footer */
-
-footer {
-    padding: 10px;
-    background-color: black;
-    text-align: center;
-}
-
-footer p {
-    color: #fff;
-}
-
-/* End footer */
